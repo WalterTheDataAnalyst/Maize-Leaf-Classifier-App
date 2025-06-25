@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+matplotlib
+tensorflow       # if you're using a .h5 model
+Pillow           # for image handling
