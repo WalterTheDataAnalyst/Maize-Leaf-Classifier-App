@@ -3,5 +3,5 @@ streamlit
 numpy
 pandas
 matplotlib
-tensorflow==2.11.0      # if you're using a .h5 model
+tensorflow>=2.16.1     # if you're using a .h5 model
 Pillow           # for image handling
