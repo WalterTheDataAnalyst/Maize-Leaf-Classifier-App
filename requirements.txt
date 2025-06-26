@@ -1,3 +1,5 @@
+nginx
+
 streamlit
 numpy
 pandas
