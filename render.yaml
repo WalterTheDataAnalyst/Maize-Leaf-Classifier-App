@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: maize-leaf-classifier
+    runtime: python
+    pythonVersion: 3.10.13
+    buildCommand: ""
+    startCommand: streamlit run Maize_Leaf_Transformer.py --server.port 10000 --server.address 0.0.0.0
